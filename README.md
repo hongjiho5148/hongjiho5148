@@ -4,12 +4,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hongjiho5148&theme=radical&margin-w=15" alt="trophy" />
-</div>
-
-<br />
-
 ### ✨ Tech Stack ✨
 <div align="center">
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -34,10 +28,17 @@
 
 <br />
 
-### 📊 Github Stats
+### 📫 Contact 📫
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hongjiho5148&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongjiho5148&layout=compact&theme=tokyonight" />
+  <a href="https://velog.io/@hongjiho5148" target="_blank">
+    <img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+  <a href="mailto:hello@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/hongjiho5148" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br />
