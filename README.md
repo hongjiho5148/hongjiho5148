@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Hong%20Jiho&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&section=header&text=Welcome%20to%20Jiho's%20GitHub!&fontSize=60&animation=twinkling&desc=Backend%20Developer&descSize=20&descAlignY=70" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hongjiho5148&theme=radical&margin-w=15" alt="trophy" />
 </div>
 
 <br />
@@ -28,10 +34,10 @@
 
 <br />
 
-### 📊 Github Stats & 💻 Most Used Languages
+### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hongjiho5148&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongjiho5148&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hongjiho5148&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongjiho5148&layout=compact&theme=tokyonight" />
 </div>
 
 <br />
