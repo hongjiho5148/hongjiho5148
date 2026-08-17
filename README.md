@@ -23,16 +23,13 @@
   <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 <br />
 
 ### 📫 Contact 📫
 <div align="center">
-  <a href="https://velog.io/@hongjiho5148" target="_blank">
-    <img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
+  
   <a href="mailto:hello@example.com">
     <img src="https://img.shields.io/badge/EMAIL-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
